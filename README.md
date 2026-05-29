@@ -29,6 +29,21 @@ a typical 4-loop PWR.
 
 ---
 
+## Results Gallery
+
+**Multi-scale modeling domain** — from the full PWR core down to the 3×3 subchannel:
+
+<p align="center"><img src="images/domain_schematic.png" width="95%" alt="Multi-scale PWR domain schematic"></p>
+
+<table>
+<tr>
+<td width="50%"><img src="images/velocity_contour.png" alt="Velocity magnitude contour"><br><sub><b>Velocity magnitude</b> (Star-CCM+, full 3×3 geometry).</sub></td>
+<td width="50%"><img src="images/temperature_outlet.png" alt="Outlet temperature contour"><br><sub><b>Outlet temperature field</b> — reflects the non-uniform radial power profile.</sub></td>
+</tr>
+</table>
+
+---
+
 ## Methodology
 
 ### Approach
